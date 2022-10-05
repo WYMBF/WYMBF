@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me: wechat(微信):zxz_0323
+- 📫 How to reach me: 
 
 <!---
 WYMBF/WYMBF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
